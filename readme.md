@@ -13,7 +13,7 @@ Aplikasi web keren yang bikin teks berubah dari karakter acak jadi teks yang kam
 
 1. **Buka Aplikasi** 📱
 
-   - Tinggal buka file `index.html` di browser favoritmu
+   - Tinggal buka file html yang ads di repo ini ke browser favoritmu
 
 2. **Atur Parameter Animasi** ⚙️
 
