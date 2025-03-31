@@ -1,6 +1,6 @@
 # 🎮 Animasi Teks Acak ✨
 
-Aplikasi web keren yang bikin teks berubah dari karakter acak jadi teks yang kamu mau secara bertahap. Seru banget! 🚀 
+Aplikasi web keren yang bikin teks berubah dari karakter acak jadi teks yang kamu mau secara bertahap. Seru banget! 🚀
 
 ## ✅ Fitur Kece
 
